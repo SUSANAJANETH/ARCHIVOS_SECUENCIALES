@@ -1,0 +1,4 @@
+ARCHIVOS_SECUENCIALES
+=====================
+
+CREACION
